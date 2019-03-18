@@ -1,0 +1,4 @@
+.ssh
+.cache
+.npm
+node_modules
