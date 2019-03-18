@@ -2,3 +2,4 @@
 .cache
 .npm
 node_modules
+keys.js
